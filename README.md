@@ -8,10 +8,6 @@
 You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
 Or, you can watch this video demo
 
-### **(Most likely outdated, its reccomeneded you check out the live demo!)**
-
-https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
-
 ## 😃 Features:
 
 - ➕ Add todos
@@ -23,3 +19,21 @@ https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f
 <p align="center">
   ❤️ Feel free to create issues and contributions for features or bugs to this project.
 </p>
+
+
+
+
+https://docs.google.com/document/d/1m5LFUG0UGEnSw-K3znIz9DEvc7Z2vFbgg6lnyPHXY9g/editBuild a simple task management application using React.js and TypeScript.
+
+Requirements:
+Task List Display: Display a list of tasks with their title and completion status.
+Add Task: Allow users to add new tasks to the list.
+Toggle Task Completion: Allow users to toggle the completion status of tasks.
+Delete Task: Allow users to delete tasks from the list.
+Data Persistence: Ensure that tasks persist even after page refresh (you can use localStorage for simplicity).
+Styling: Apply basic styling to make the application visually appealing.
+
+You should use:
+React/Next.js & Typescript
+Redux to manage the app state
+Tailwind css to manage design UI components
